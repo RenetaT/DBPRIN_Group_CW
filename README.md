@@ -2,12 +2,11 @@
 Group coursework second year /module Database Principles 
 
 # Database Principles Coursework
-- **Final Mark:** 73
+## Final Coursework Mark: **73**
 
 ## Project Overview
 This project is a database system designed based on the provided case study. The project includes an **Entity Relationship Diagram (ERD)**, a **Data Dictionary**, the **physical implementation of the database** (SQL code for creating tables and inserting sample data), and a set of **queries** that demonstrate the usability of the system.
 
-## Final Coursework Mark: **73**
 
 ## Contents
 1. **Entity Relationship Diagram (ERD)**
